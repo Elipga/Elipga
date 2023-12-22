@@ -3,7 +3,7 @@
   <h1 align="center">Welcome to my GitHub </h1>
 </div>
 
-## Sobre mi
+## About me
 - ⭐ Java ⭐
 - ⭐ Spring Boot ⭐
 - ⭐ Rest API ⭐
