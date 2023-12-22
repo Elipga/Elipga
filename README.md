@@ -1,9 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, it's Elisa 👋</h1>
-  <h1 align="center">Welcome to my GitHub 👋</h1>
+  <h1 align="center">Welcome to my GitHub </h1>
 </div>
-
-### Hi there 👋
 
 ## Sobre mi
 - ⭐ Java ⭐
